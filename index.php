@@ -1,19 +1,15 @@
 <html>
-    
     <head>
        <meta charset="UTF-8">
        <title>UMBRELLA CORPORATION</title>
     </head>
-    
     <body>
-        
        <style>
        body {
        background-image:url('umb.jpg');
        background-repeat:no-repeat;
        }
        </style>
-       
         <a name="Start"></a>
     <?php
         echo '****** WELCOME TO UMBRE<i>LL</i>A ******'.'<br/>';
@@ -105,6 +101,5 @@
         <a href="About.html" title="See more about the Umbrella Corp.">Click Here to see about UMBRE<i>LL</i>A</a><br>
         <p style="width:200px; height:1200px;"><b>Our Business Is Life Itself</b></p>
         <a href='#Start'>Go to Top</a>
-        
     </body>
 </html>
