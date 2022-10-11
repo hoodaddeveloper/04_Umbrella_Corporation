@@ -6,8 +6,8 @@
     <body>
        <style>
        body {
-       background-image:url('umb.jpg');
-       background-repeat:no-repeat;
+         background-image: url('umb.jpg');
+         background-repeat: no-repeat;
        }
        </style>
         <a name="Start"></a>
