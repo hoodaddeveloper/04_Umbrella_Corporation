@@ -1,20 +1,20 @@
 table {
-	width: 1000px;
-	border-spacing: 0px;
-	font-size: 30px;
+  width: 1000px;
+  border-spacing: 0px;
+  font-size: 30px;
 }
 
 .styling1 {
-	background-color: #a0effb;
-	text-align: center;
-	width: 500px;
-	height: 70px;
+  background-color: #a0effb;
+  text-align: center;
+  width: 500px;
+  height: 70px;
 }
 
 .styling2 {
-	background-color: #a6ddaf;
-	text-align: center;
-	height: 70px;
+  background-color: #a6ddaf;
+  text-align: center;
+  height: 70px;
 }
 
 .styling3 {
