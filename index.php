@@ -1,15 +1,16 @@
 <html>
-    <head>
-       <meta charset="UTF-8">
-       <title>UMBRELLA CORPORATION</title>
-    </head>
-    <body>
-       <style>
-       body {
-         background-image: url('umb.jpg');
-         background-repeat: no-repeat;
-       }
-       </style>
+<head>
+    <meta charset="UTF-8">
+    <title>UMBRELLA CORPORATION</title>
+</head>
+
+<body>
+    <style>
+    body {
+        background-repeat: no-repeat;
+        background-image: url('umb.jpg');
+    }
+    </style>
         <a name="Start"></a>
     <?php
         echo '****** WELCOME TO UMBRE<i>LL</i>A ******'.'<br/>';
@@ -81,12 +82,12 @@
                 echo "It works<br><br>";
             else
                 echo "it doesn't work<br><br>";
-              } 
+            } 
             else 
-              {
+            {
                 echo "Date is not valid<br><br>";
                 echo "<a href=\"index.php\">zur&uuml;ck</a><br><br>";
-              }
+            }
             }
         else
             {
@@ -101,5 +102,5 @@
         <a href="About.html" title="See more about the Umbrella Corp.">Click Here to see about UMBRE<i>LL</i>A</a><br>
         <p style="width:200px; height:1200px;"><b>Our Business Is Life Itself</b></p>
         <a href='#Start'>Go to Top</a>
-    </body>
+</body>
 </html>
